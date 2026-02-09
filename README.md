@@ -52,6 +52,5 @@ The app also uses **Toast messages** and **Alert Dialogs** to guide users and ha
 
 ---
 
-## 📂 Project Structure
 
 
